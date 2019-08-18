@@ -1,0 +1,3 @@
+* [a6ce913](https://github.com/TryGhost/Casper/commit/a6ce913) 2.10.6 - Fabien O'Carroll
+* [8ad3b82](https://github.com/TryGhost/Casper/commit/8ad3b82) Update dependency gscan to v2.7.0 - Renovate Bot
+* [c66d64d](https://github.com/TryGhost/Casper/commit/c66d64d) Update CSS preprocessors - Renovate Bot
